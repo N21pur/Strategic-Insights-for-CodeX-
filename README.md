@@ -54,12 +54,6 @@ The Power BI dashboards provide an in-depth view of:
 - **Brand Preferences**: Preferred brands and reasons for choosing them.
 - **Marketing Insights**: Channels where consumers frequently encounter energy drink advertisements.
 
-## How to Use
-
-You can explore the code and data in this repository to replicate the analysis and gain further insights. The SQL queries and Power BI files are available for detailed exploration.
-
-## Acknowledgements
-
 A special thank you to Dhaval Patel and Hemanand Vadivel for their guidance and support throughout this project. Their insights have been instrumental in delivering this analysis with confidence.
 
 ---
